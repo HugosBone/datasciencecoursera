@@ -1,4 +1,0 @@
-datasciencecoursea
-==================
-
-class assignments
